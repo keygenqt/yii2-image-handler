@@ -4,13 +4,13 @@
 	"keywords": ["yii2", "extension", "image-handler", "keygenqt"],
 	"homepage": "https://github.com/keygenqt/yii2-image-handler",
 	"type": "yii2-extension",
-	"license": "BSD-3-Clause",
-	"version":"0.5.0",
+	"license": "MIT",
+	"version":"1.0.0",
 	"authors": [
 		{
 		  "name": "Vitaliy Zarubin",
 		  "email": "keygenqt@gmail.com",
-		  "homepage": "http://keygenqt.ru/",
+		  "homepage": "http://keygenqt.com/",
 		  "role": "Developer"
 		}
 	],

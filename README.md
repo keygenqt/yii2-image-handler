@@ -1,7 +1,10 @@
-yii2-html
+Image Handler
 ===================
 
-Yii component CImageHandler for yii2
+![Packagist Downloads](https://img.shields.io/packagist/dt/keygenqt/yii2-image-handler)
+![GitHub](https://img.shields.io/github/license/keygenqt/yii2-image-handler)
+
+Yii component [CImageHandler](https://github.com/tokolist/yii-components/tree/master/protected/extensions/yiicomp/components/ImageHandler) for yii2
 
 ## Installation
 
@@ -11,20 +14,12 @@ Either add
 
 ```
 "require": {
-    "keygenqt/yii2-image-handler": "*"
+    "keygenqt/yii2-image-handler": "1.0.0"
 },
 ```
 
 of your `composer.json` file.
 
-## Latest Release
-
-The latest version of the module is v0.5.0 `BETA`.
-
 ## Usage
 
 [Link](https://github.com/tokolist/yii-components/tree/master/protected/extensions/yiicomp/components/ImageHandler)
-
-## License
-
-http://www.opensource.org/licenses/mit-license.php The MIT License
