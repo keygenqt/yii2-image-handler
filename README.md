@@ -1,8 +1,8 @@
 Image Handler
 ===================
 
-![Packagist Downloads](https://img.shields.io/packagist/dt/keygenqt/yii2-image-handler)
 ![GitHub](https://img.shields.io/github/license/keygenqt/yii2-image-handler)
+![Packagist Downloads](https://img.shields.io/packagist/dt/keygenqt/yii2-image-handler)
 
 Yii component [CImageHandler](https://github.com/tokolist/yii-components/tree/master/protected/extensions/yiicomp/components/ImageHandler) for yii2
 
