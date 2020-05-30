@@ -1,6 +1,6 @@
 {
 	"name": "keygenqt/yii2-image-handler",
-	"description": "yii2 image-handler",
+	"description": "Yii component CImageHandler for yii2",
 	"keywords": ["yii2", "extension", "image-handler", "keygenqt"],
 	"homepage": "https://github.com/keygenqt/yii2-image-handler",
 	"type": "yii2-extension",
@@ -9,7 +9,7 @@
 	"authors": [
 		{
 		  "name": "Vitaliy Zarubin",
-		  "email": "keygenqt@gmail.com",
+		  "email": "dev@keygenqt.com",
 		  "homepage": "http://keygenqt.com/",
 		  "role": "Developer"
 		}
