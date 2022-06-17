@@ -97,7 +97,7 @@ class ImageHandler extends Component
 
 	private function checkLoaded()
 	{
-		if (!is_resource($this->image))
+        if ($this->image == null)
 		{
 			throw new Exception('Load image first');
 		}
